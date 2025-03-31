@@ -14,6 +14,11 @@ A simple and efficient to-do list web application built using **HTML, CSS, and J
 - **Intuitive Icons:** Checkmark for completed tasks and a cross button for deletion.
 
 **Screenshort** UI of website looks like
+
+
+
+
+
 ![Screenshot from 2025-03-30 12-14-30](https://github.com/user-attachments/assets/6d50657d-415a-4688-9cb1-cd102d0572f4)
 
 
